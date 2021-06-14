@@ -422,6 +422,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pedestal
       objectReference: {fileID: 0}
+    - target: {fileID: 7564081572605333738, guid: 29a1f8d4c7d3cfb46acf17c412de8ce7, type: 3}
+      propertyPath: m_Name
+      value: Stand
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29a1f8d4c7d3cfb46acf17c412de8ce7, type: 3}
 --- !u!4 &4584295533433226570 stripped
