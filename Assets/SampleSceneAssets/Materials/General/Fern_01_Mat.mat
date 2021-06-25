@@ -51,7 +51,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
         m_Texture: {fileID: 2800000, guid: 6da591420c95bbe4bb43b39c060602d6, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 1, y: 0.5}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMapT2DA:
         m_Texture: {fileID: 0}
@@ -325,7 +325,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Ints: []
     m_Floats:
     - _AORemapMax: 1
     - _AORemapMin: 0
@@ -421,7 +420,7 @@ Material:
     - _HorizonFade: 1
     - _IOR: 1
     - _InitialBend: 1
-    - _InvTilingScale: 1
+    - _InvTilingScale: 1.3333334
     - _Ior: 1
     - _IridescenceMask: 1
     - _IridescenceThickness: 1
