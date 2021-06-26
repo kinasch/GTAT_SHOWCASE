@@ -5708,6 +5708,10 @@ PrefabInstance:
       propertyPath: mouseSens
       value: 250
       objectReference: {fileID: 0}
+    - target: {fileID: 2714007149241546352, guid: aad50dfc8d6fd44459b68f74ca41eb3d, type: 3}
+      propertyPath: moveSpeed
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2714007149241546356, guid: aad50dfc8d6fd44459b68f74ca41eb3d, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
